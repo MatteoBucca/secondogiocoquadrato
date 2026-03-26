@@ -6,7 +6,7 @@ var redSquare = {
   width: 20,
   height: 20,
   x: 10,
-  y: 120,
+  y: 110,
   color: "red"
 };
 
